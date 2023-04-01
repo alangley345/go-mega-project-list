@@ -1,5 +1,5 @@
 # go-mega-project-list
-Go implements from karan/projects
+Stolen from https://github.com/karan/Projects. Edited as items are coded up.
 
 Numbers
 
